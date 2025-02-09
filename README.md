@@ -6,4 +6,6 @@ An animation sourced from https://lottiefiles.com/ plays in the center of the sc
 
 This app reads from an API from https://openweathermap.org/
 
+Currently only pulls location data when on Android or IOS.
+
 ![App screen](https://github.com/daffodyl/weather_app/blob/main/appScreen.png?raw=true)
