@@ -1,16 +1,9 @@
 # weather_app
 
-A new Flutter project.
+A simple weather app made with Flutter. Displays the temperature and weather conditions at current location.
 
-## Getting Started
+An animation sourced from https://lottiefiles.com/ plays in the center of the screen depending on the weather conditions.
 
-This project is a starting point for a Flutter application.
+This app reads from an API from https://openweathermap.org/
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App screen](https://github.com/daffodyl/weather_app/blob/master/appScreen.png?raw=true)
