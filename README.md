@@ -6,4 +6,4 @@ An animation sourced from https://lottiefiles.com/ plays in the center of the sc
 
 This app reads from an API from https://openweathermap.org/
 
-![App screen](https://github.com/daffodyl/weather_app/blob/master/appScreen.png?raw=true)
+![App screen](https://github.com/daffodyl/weather_app/blob/main/appScreen.png?raw=true)
