@@ -7,8 +7,11 @@ import 'package:geocoding/geocoding.dart';
 
 class WeatherService {
 
+  WeatherService(this.apiKey);
+
   static const BASE_URL = 'https://api.openweathermap.org/data/2.5/weather';
-  final String apiKey = 'e3d84899a8230be94e20b7e202f4454e';
+  final String apiKey;
+
 
   Future<Weather> getWeather(String cityName) async {
     final response = await http.get(Uri.parse('$BASE_URL?q=$cityName&appid=$apiKey&units=metric'));
